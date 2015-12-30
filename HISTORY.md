@@ -1,4 +1,4 @@
-## 1.4.0p1 (2015-12-30
+## 1.4.0p1 (2015-12-30)
 
 * Personal release of 1.4.0 + PR #147, to support multimethods as render functions
 * Should be unnecessary once compojure 0.5.0 is released
