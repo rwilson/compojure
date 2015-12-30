@@ -1,3 +1,8 @@
+## 1.4.0p1 (2015-12-30
+
+* Personal release of 1.4.0 + PR #147, to support multimethods as render functions
+* Should be unnecessary once compojure 0.5.0 is released
+
 ## 1.4.0 (2015-07-14)
 
 * Added new :<< syntax for coercing parameters (see #131)
